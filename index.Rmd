@@ -1,0 +1,30 @@
+---
+output: html_document
+---
+## Introduction
+
+"I don't do it for the money, but I do do it for a living." (Street performer)
+
+As physicians your focus is on your patients, and when you submit a bill, it is for work that you did.
+Sometimes that work was done under great adversity, sometimes it was in the middle of the night. 
+Teleplan's reponse to your claim often is a mysterious "being hold" and some weeks or months later perhaps you will be offered less than you claimed - a process euphemistically called "paid with explanations".  Often, too often, your frustration is interrupted by clinical demands and you take what you were offered, or not. 
+
+EVIDENTLY was created as a physician-focused data science company; our first product is designed to help you understand your Remittance Advice and to organize your response to it.
+From there we will provide additional value to help you manage your fee-for-service incomes, as individuals and as clinics. 
+
+Additionally, although we are a "data science" company, we have different values.
+Most companies keep your data, mine it so they can sell you, or your patients, for secondary analysis.  
+We don't keep your data. You send up encrypted, highly "scrubbed" data, we analyze it, and throw your raw data away.
+Each remittance advice is treated as it is new data. 
+Our business flourishes only if you trust us and how we manage your billing data. 
+We've taken some bold and innovative steps to guarantee our methods. 
+
+Contact us. 
+It is time we had a conversation. 
+
+Rob James, PhD
+
+robjames@evidently.ca
+
+250 538 8085
+
