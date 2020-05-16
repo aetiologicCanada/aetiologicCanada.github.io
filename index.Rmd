@@ -29,12 +29,14 @@ We think it is fair that you are paid for the work you have done, so we are acti
 
 We are a "data science" company, but one with very unusual values.
 Most companies like to keep your data, mine it so they can sell you, or your patients, for secondary purposes. 
+
 We don't keep your data. 
+
 We don't see your patient-level data. 
 
-You retain complete control over your data. Yes, we process it for you, but you are the custodian.
+You retain complete control over your data. We process it for you, but you remain the sole custodian.
 
-Does this found familiar? Is it time we had a conversation?  
+Is it time we had a conversation?  
 
 We understand.
 
