@@ -1,29 +1,47 @@
 ---
+title: "EVIDENTLY"
 output: html_document
 ---
+
 ## Introduction
 
-"I don't do it for the money, but I do do it for a living." (Street performer)
+_"I don't do this for the money, but it is how I make my living." (Street performer)_
 
-As physicians your focus is on your patients, and when you submit a bill, it is for work that you did.
-Sometimes that work was done under great adversity, sometimes it was in the middle of the night. 
-Teleplan's reponse to your claim often is a mysterious "being hold" and some weeks or months later perhaps you will be offered less than you claimed - a process euphemistically called "paid with explanations".  Often, too often, your frustration is interrupted by clinical demands and you take what you were offered, or not. 
+We understand. 
 
-EVIDENTLY was created as a physician-focused data science company; our first product is designed to help you understand your Remittance Advice and to organize your response to it.
-From there we will provide additional value to help you manage your fee-for-service incomes, as individuals and as clinics. 
+We understand that you are focused on your practice, your patients. 
 
-Additionally, although we are a "data science" company, we have different values.
-Most companies keep your data, mine it so they can sell you, or your patients, for secondary analysis.  
-We don't keep your data. You send up encrypted, highly "scrubbed" data, we analyze it, and throw your raw data away.
-Each remittance advice is treated as it is new data. 
-Our business flourishes only if you trust us and how we manage your billing data. 
-We've taken some bold and innovative steps to guarantee our methods. 
+We also understand that you do this for a living. 
 
-Contact us. 
-It is time we had a conversation. 
+We understand that when you submit a claim to TELEPLAN, it is for your labour, and that it reflects your time, your staff, your supplies and your facilities. 
+
+We understand that sometimes your work is done under great adversity, sometimes it was in the middle of the night.
+
+We also understand your confusion when TELEPLAN's response to your claim for that work is a mysterious "being held" reply, followed some weeks or months later by a partial payment.
+
+We understand that too often your intention to follow-up on these "explanations" is interrupted by clinical demands, and you move on.
+
+We understand that there are other times when you are involved in a demanding clinical situation, a resuscitation or maybe an involuntary admission and perhaps you should bill code X, but you strongly suspect that Teleplan will push back, so you bill Y, at a meaningfully reduced price point. You hope that at least code Y will sail through and you will be paid. We understand. 
+
+We understand your reality. 
+
+We think it is fair that you are paid for the work you have done, so we are actively building tools - data science tools - to level the playing field, to give you ways to understand and respond those cryptic, "remittance advice" statements. 
+
+We are a "data science" company, but one with very unusual values.
+Most companies like to keep your data, mine it so they can sell you, or your patients, for secondary purposes. 
+We don't keep your data. 
+We don't see your patient-level data. 
+
+You retain complete control over your data. Yes, we process it for you, but you are the custodian.
+
+Does this found familiar? Is it time we had a conversation?  
+
+We understand.
+
+Let's talk. 
 
 Rob James, PhD
-
+EVIDENTLY
 robjames@evidently.ca
 
 250 538 8085
